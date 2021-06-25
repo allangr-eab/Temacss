@@ -1,0 +1,26 @@
+}
+main#container {
+    background-image: url('fundo.jpg');
+    background-size: cover;
+}
+
+h1.titulo {
+    color: rgb(172, 34, 34);
+    text-decoration: underline;
+    font-size: 2.5em;
+    font-weight: 950;
+    text-align: center;
+
+    text-shadow: 4px 4px 0 rgb(61, 59, 59);
+}
+
+p.frase {
+    color: rgb(223, 165, 7);
+    text-shadow: -1px -1px 10px white;
+    font-weight: 800;
+}
+
+p.autor {
+    color: white;
+    font-style: italic;
+} 
