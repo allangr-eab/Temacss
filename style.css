@@ -1,6 +1,6 @@
 }
 main#container {
-    background-image: url('fundo.jpg');
+    background-image: url( 'fundo.jpg' );
     background-size: cover;
 }
 
@@ -16,7 +16,7 @@ h1.titulo {
 
 p.frase {
     color: rgb(223, 165, 7);
-    text-shadow: -1px -1px 10px white;
+    text-shadow: -1px -1px 10px rgb(204, 202, 202);
     font-weight: 800;
 }
 
